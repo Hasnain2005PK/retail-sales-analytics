@@ -68,7 +68,7 @@ Interactive dashboard including:
 - Monthly Sales/Profit trends (Year-over-Year comparison)
 - Discount Impact on Profit Margin chart
 
-![Dashboard Screenshot](./dashboard_screenshot.png)
+![Dashboard Screenshot](./Sales_Analysis_Dashboard.png)
 
 ---
 
